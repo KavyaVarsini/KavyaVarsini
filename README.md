@@ -64,15 +64,6 @@ Production and salary management system developed using Flask and SQLite for ind
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaSenthil&theme=github-dark"/>
-
-</p>
-
----
 ## 💭 Quote
 
 > "Learning never exhausts the mind."
